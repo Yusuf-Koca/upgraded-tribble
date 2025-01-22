@@ -1,4 +1,5 @@
 pandas
 numpy
+sickit-learn
 matplotlib
 sickit
