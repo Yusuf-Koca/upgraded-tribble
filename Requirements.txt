@@ -1,4 +1,6 @@
 pandas
 numpy
+sklearn
 matplotlib
-skibidi
+seaborn
+scipy
