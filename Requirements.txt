@@ -1,5 +1,6 @@
 pandas
 numpy
-sickit-learn
+sklearn
 matplotlib
-sickit
+seaborn
+scipy
